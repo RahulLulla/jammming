@@ -1,0 +1,6 @@
+.app-login {
+  height: 100vh;
+  background-image: url("../../../public/background_photo_desktop.jpg");
+  background-size: cover;
+  color: white;
+}

@@ -1,0 +1,41 @@
+hr {
+  border: none;
+  height: 0.1px;
+  background-color: aliceblue;
+  margin: 5px 0;
+}
+
+.track {
+  margin-top: 10px;
+  display: flex;
+  height: 4rem;
+  justify-content: space-between;
+}
+
+.track-info {
+  align-content: center;
+}
+
+.track-action {
+  align-content: center;
+}
+
+.track-action button {
+  background-color: transparent;
+  border: none;
+  font-size: 1.5rem;
+  font-weight: lighter;
+  color: white;
+  cursor: pointer;
+}
+
+.songname {
+  font-size: 1.2rem;
+  margin: 3px 0;
+}
+
+.artist-album {
+  font-size: 1rem;
+  font-weight: 300;
+  color: rgba(204, 204, 204, 0.918);
+}
